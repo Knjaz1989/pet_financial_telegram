@@ -5,4 +5,5 @@ class Settings:
     class Config:
         env_file = '../develop.env'
 
+
 config = Settings()
